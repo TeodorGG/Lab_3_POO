@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tudordeviza/CLionProjects/untitled4/Item.h
+string
+-
+
+/Users/tudordeviza/CLionProjects/untitled4/TComanda.cpp
+TComanda.h
+/Users/tudordeviza/CLionProjects/untitled4/TComanda.h
+TOperator.h
+/Users/tudordeviza/CLionProjects/untitled4/TOperator.h
+utility
+-
+
+/Users/tudordeviza/CLionProjects/untitled4/TComanda.h
+string
+-
+list
+-
+TOperator.h
+/Users/tudordeviza/CLionProjects/untitled4/TOperator.h
+Item.h
+/Users/tudordeviza/CLionProjects/untitled4/Item.h
+
+/Users/tudordeviza/CLionProjects/untitled4/TOperator.h
+string
+-
+list
+-
+iostream
+-
+Item.h
+/Users/tudordeviza/CLionProjects/untitled4/Item.h
+
